@@ -1,6 +1,6 @@
 package soduku;
 
-public class SodukuSolver {
+public class SudukuSolver {
 
 	private static final int GRID_SIZE = 9;
 
